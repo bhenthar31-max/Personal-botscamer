@@ -58,8 +58,7 @@
 
   </div>
 </body>
-</html># Personal-botscamer
-Web
+</html>
 // BOTSCAMER - FULL PRO APP (FINAL READY)
 // ✅ OpenCV Native Module (Java)
 // ✅ Auto Crop REAL (deteksi kertas)
